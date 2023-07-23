@@ -2,7 +2,7 @@ import tweepy
 import datetime
 
 # Insira as chaves aqui
-CONSUMER_KEY = '
+CONSUMER_KEY = ''
 CONSUMER_SECRET = ''
 BEARER_TOKEN = ''
 ACCESS_TOKEN = ''
